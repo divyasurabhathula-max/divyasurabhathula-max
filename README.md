@@ -18,13 +18,62 @@
 
 ---
 
+
 ## 🛠️ Tech Stack
 
-<div align="center">
+### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,mysql,php,django,html,css,js,git,github,vscode&theme=dark" />
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" width="50" />
+</a>
+<a href="https://www.php.net/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=php&theme=dark" width="50" />
+</a>
+<a href="https://www.java.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" width="50" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://skillicons.dev/icons?i=javascript&theme=dark" width="50" />
+</a>
 
-</div>
+### Web Technologies
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" width="50" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" width="50" />
+</a>
+
+### Frameworks
+
+<a href="https://www.djangoproject.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=django&theme=dark" width="50" />
+</a>
+<a href="https://react.dev/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" width="50" />
+</a>
+
+### Database
+
+<a href="https://www.mysql.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="50" />
+</a>
+<a href="https://www.mongodb.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="50" />
+</a>
+
+### Tools
+
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" width="50" />
+</a>
+<a href="https://github.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="50" />
+</a>
+<a href="https://code.visualstudio.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="50" />
+</a>
 
 ---
 
